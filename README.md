@@ -1,4 +1,4 @@
-# CIFAR-10-Image-Classification
+# CIFAR 10 Image Classification
 Image classification on the CIFAR 10 Dataset using Support Vector Machines (SVMs), Fully Connected Neural Networks and Convolutional Neural Networks (CNNs). The files are organized as follows:
 
 **SVMs_Part1** -- Image Classification on the CIFAR-10 Dataset using Support Vector Machines. Different types of kernels are used including Linear Kernel, Polynomial Kernel and the Radial Basis Function (RBF) Kernel.
