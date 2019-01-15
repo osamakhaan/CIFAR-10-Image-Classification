@@ -35,6 +35,6 @@ The results are tabulated below:
 **CNNs_Part2** -- A Python File for training the convolutional neural network on the GPU.
 
 
-See "Final_Report.pdf" for an analysis of the efficacy of the various algorithms on the CIFAR-10 Image Classification task.
+See "Final_Report.pdf" for an analysis of the efficacy of the various algorithms on the CIFAR-10 Image Classification task. Some of the tricks used during training (e.g. cyclic learning rates) are also discussed.
 
 
